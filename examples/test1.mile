@@ -1,0 +1,35 @@
+dec_var[
+	
+	const entero constEnt = 3;
+	const real uno = 4.56;
+	entero a;
+	entero b;
+	entero o;
+	carac c;
+	carac d;
+	real f;
+	real g;
+	booleano y;
+	booleano z;
+
+]cuerpo[
+	
+	 a = b;
+	 c = d;
+	 f = 454.0 + g;
+	 a = constEnt + b + 12354+ 4566;
+	 
+	 mientras (f<g){
+	 	g=f*2.3;
+	 }
+
+	 si(f < g){
+	 	a = constEnt + b + 12354+ 4566;
+	 }sino{
+	 	f = 454.0 + g;
+	 }	 
+
+	 repetir(a=0;a<b;a++){
+	 	y=z;
+	 }	 
+]
